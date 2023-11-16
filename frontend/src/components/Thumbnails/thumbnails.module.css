@@ -63,10 +63,9 @@
   margin-top: 0.2rem;
 }
 
-.origins {
+origins {
   flex: 9;
 }
-
 .cook_time {
   font-size: 0.9rem;
   flex: 3;
